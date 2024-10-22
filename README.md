@@ -1,2 +1,2 @@
 # Tratamento_python
-Tratamento de erro e validação utilizando pyhton.
+Tratamento de erro e validação de dados utilizando pyhton.
